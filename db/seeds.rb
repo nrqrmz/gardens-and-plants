@@ -21,6 +21,7 @@ Plant.create!(
   image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg",
   garden: Garden.first
 )
+#comment
 
 Plant.create!(
   name: "Dieff",
